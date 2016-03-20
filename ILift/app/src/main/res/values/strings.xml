@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ILift</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">login</string>
+    <string name="title_activity_create_account">create_account</string>
+
+    <!-- Facebook -->
+    <string name="facebook_app_id">2005619189663173</string>
+</resources>
